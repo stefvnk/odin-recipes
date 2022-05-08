@@ -1,0 +1,38 @@
+.body {
+    background-color: rgb(5, 0, 75);
+}
+.image {
+    height:400px;
+    weight:400px;
+    align:center;
+    border-radius: 0px;
+    border-top-left-radius: 280px;
+    border-bottom-right-radius: 280px;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 100px;
+    border: 8px solid red;
+}
+
+.fnt {
+    color:yellow;
+    font-family: "coulen", sans-serif;
+
+}
+
+.fnt.h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.but {
+    background-color:orange;
+    border:1px solid white;
+    height:30px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
